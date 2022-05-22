@@ -5,7 +5,7 @@ out
 gen
 
 # config
-src/main/resources/application.yml
+src/jdbc.properties
 
 # target
 target/
